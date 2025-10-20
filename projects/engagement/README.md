@@ -27,6 +27,7 @@ Operational teams needed to know which messaging timing increased appointment ad
 
 ##Results
 - ## Visuals
+- The optimized messaging group showed a 6–10% improvement in adherence, consistent across both observed and predicted models.
 
 **Observed Adherence Lift (A/B Test)**  
 ![Observed Adherence Lift](./appointment_adherence_chart.png)
