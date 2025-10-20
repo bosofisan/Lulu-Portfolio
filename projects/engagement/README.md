@@ -24,3 +24,13 @@ Operational teams needed to know which messaging timing increased appointment ad
 ## Artifacts
 - Notebook: `projects/engagement/notebooks/engagement_ab_analysis.ipynb`  
 - Dashboard screenshot: `projects/engagement/dashboard.png`
+
+##Results
+- ## Visuals
+
+**Observed Adherence Lift (A/B Test)**  
+![Observed Adherence Lift](./appointment_adherence_chart.png)
+
+**Predicted Adherence Probability (Logistic Regression)**  
+![Predicted Adherence Probability](./predicted_adherence_chart.png)
+
