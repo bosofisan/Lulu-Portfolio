@@ -18,5 +18,5 @@ Forecast macro-influenced performance and attribute drivers of change (analogous
 ## Visuals
 
 **Performance Forecast (Actual vs Predicted)**  
-![Forecast Chart](./forecasting_line.png)
+![Forecast Chart](./forcasting_line.png)
 
