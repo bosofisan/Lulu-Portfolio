@@ -2,7 +2,7 @@
 
 ## Contact
 **Email:** boluosofisan@gmail.com • **Phone:** (917) 495-0019  
-**Resume:** [Download PDF](./Lulu_Osofisan_Resume.pdf) • **GitHub:** https://github.com/bosofisan 
+**GitHub:** https://github.com/bosofisan 
 
 ---
 
