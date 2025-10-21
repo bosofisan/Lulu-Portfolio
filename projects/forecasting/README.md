@@ -14,3 +14,9 @@ Forecast macro-influenced performance and attribute drivers of change (analogous
 ## Artifacts
 - Notebook: `projects/forecasting/forecasting_analysis.ipynb`  
 - Figure: `projects/forecasting/shap_summary.png`
+
+## Visuals
+
+**Performance Forecast (Actual vs Predicted)**  
+![Forecast Chart](./forecast_line.png)
+
